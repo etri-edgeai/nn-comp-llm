@@ -1,0 +1,12 @@
+openai
+pandas
+numpy
+matplotlib
+easydict
+pytorch-lightning
+transformers
+datasets
+sentencepiece
+deepspeed
+scipy
+seaborn
