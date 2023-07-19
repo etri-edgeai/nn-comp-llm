@@ -167,7 +167,3 @@ saved/
 ```
 
 
-### Personal Note
-
-![accepted](acl2023.jpg)
-
