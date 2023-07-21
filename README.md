@@ -2,4 +2,4 @@
 ---
 
 ### Contributors  
-Woojin Chung, Mingyu Kim  
+Woojin Chung, Mingyu Kim, Minu Kim  
