@@ -25,7 +25,7 @@ python download_glue_data.py
 
 ### Prepare the pre-trained Language Models
 For BERT experiments, you have to prepare the teacher model and student model.
-You have to download the teacher and student model from these link.
+You have to download the teacher and student model from huggingface.
 - BERT-base : https://storage.googleapis.com/bert_models/2020_02_20/uncased_L-12_H-768_A-12.zip
 - BERT-small : https://storage.googleapis.com/bert_models/2020_02_20/uncased_L-6_H-768_A-12.zip
 
