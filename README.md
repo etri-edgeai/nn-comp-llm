@@ -12,7 +12,7 @@ This work was supported by Institute of Information & communications Technology 
 # Description of Each Repository
 
 * CR-ILD : Repository of "[Revisiting Intermediate Layer Distillation for Compressing Language Models: An Overfitting Perspective ](https://arxiv.org/abs/2302.01530)" accepted at EACL 2023 Findings. This is an algorithm of utilizing intermediate layer distillation for compressing bert models.
-* Reasoning_Teacher_ACL2023 : Repository\ of "[Large Language Models are Reasoning Teachers](https://arxiv.org/abs/2212.10071)" accepted at ACL 2023. For compression, this paper presents a method of using the COT reasonings of large language models
+* Reasoning_Teacher_ACL2023 : Repository of "[Large Language Models are Reasoning Teachers](https://arxiv.org/abs/2212.10071)" accepted at ACL 2023. For compression, this paper presents a method of using the COT reasonings of large language models
 
 ## How to Use
 
