@@ -18,4 +18,4 @@ This work was supported by Institute of Information & communications Technology 
 ## How to Use
 
 1. Navigate to the desired repository by clicking on the provided link.
-2. Follow the instructions provided in each repository for installation, usage, and other details.
+2. Follow the instructions provided in each repository for installation, usage, and other 
