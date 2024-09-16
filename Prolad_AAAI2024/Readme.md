@@ -30,7 +30,7 @@ This repository contains the code for training a feature extractor and subsequen
 ```
 
 ## Test
-* To fine-tuning on support set using TAD, run
+* To conduct fine-tuning on support set using TAD, run
 ```
     ./scripts/test_resnet18_prolad.sh
 ```
