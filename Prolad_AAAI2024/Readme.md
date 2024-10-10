@@ -1,6 +1,6 @@
 # Leveraging Normalization Layer in Adapters With Progressive Learning and Adaptive Distillation for Cross-Domain Few-Shot Learning
 
-A replication of the paper "Leveraging Normalization Layer in Adapters With Progressive Learning and Adaptive Distillation for Cross-Domain Few-Shot Learning"
+A replication of the paper ["Leveraging Normalization Layer in Adapters With Progressive Learning and Adaptive Distillation for Cross-Domain Few-Shot Learning"](https://arxiv.org/abs/2312.11260)
 
 ## Introduction
 
